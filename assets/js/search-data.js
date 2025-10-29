@@ -440,16 +440,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-pdf-on-anatomically-controllable-image-generation-is-accepted-by-miccai",
-          title: '🔥 Our work (PDF) on anatomically-controllable image generation is accepted by MICCAI.',
+            },},{id: "news-our-paper-on-anatomically-controllable-image-generation-is-accepted-by-miccai",
+          title: '🔥 Our paper on anatomically-controllable image generation is accepted by MICCAI.',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-our-paper-on-universal-bone-segmentation-is-accepted-by-medical-image-analysis",
+          title: '🔥 Our paper on universal bone segmentation is accepted by Medical Image Analysis....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-oct-2025-our-work-pdf-on-accelerating-volumetric-medical-image-annotation-slm-sam-2-has-been-accepted-for-publication-in-ieee-transaction-on-medical-imaging-tmi",
-          title: '🔥 [Oct 2025] Our work (PDF) on accelerating volumetric medical image annotation (SLM-SAM...',
+          section: "News",},{id: "news-our-paper-on-accelerating-volumetric-medical-image-annotation-slm-sam-2-has-been-accepted-for-publication-in-ieee-transaction-on-medical-imaging-tmi",
+          title: '🔥 Our paper on accelerating volumetric medical image annotation (SLM-SAM 2) has been...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
