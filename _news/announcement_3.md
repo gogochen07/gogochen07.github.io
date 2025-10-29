@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<span class='emoji'>🔥</span> [Oct 2025] Our work [(PDF)](https://arxiv.org/pdf/2401.12974) on accelerating volumetric medical image annotation (SLM-SAM 2) has been accepted for publication in IEEE Transaction on Medical Imaging (TMI)

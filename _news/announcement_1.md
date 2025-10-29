@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-06
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+<span class='emoji'>🔥</span> Our work [(PDF)](https://arxiv.org/pdf/2402.05210) on anatomically-controllable image generation is accepted by MICCAI.
