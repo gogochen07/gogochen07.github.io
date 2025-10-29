@@ -440,16 +440,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-work-pdf-on-anatomically-controllable-image-generation-is-accepted-by-miccai",
+          title: '🔥 Our work (PDF) on anatomically-controllable image generation is accepted by MICCAI.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-oct-2025-our-work-pdf-on-accelerating-volumetric-medical-image-annotation-slm-sam-2-has-been-accepted-for-publication-in-ieee-transaction-on-medical-imaging-tmi",
+          title: '🔥 [Oct 2025] Our work (PDF) on accelerating volumetric medical image annotation (SLM-SAM...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
