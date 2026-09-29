@@ -27,9 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a 3rd year ECE PhD student at Duke University focusing on AI + healthcare. I am fortunate to be advised by [Prof. Maciej A. Mazurowski](https://sites.duke.edu/mazurowski/).
+I am currently a 4th-year ECE PhD student at Duke University focusing on AI + healthcare. I am fortunate to be advised by [Prof. Maciej A. Mazurowski](https://sites.duke.edu/mazurowski/). Previously, I interned at Siemens Healthineers.
 
-My research interests primarily lie in foundation models, generative models, learning under data distribution shifts and advancing AI solutions for real-world challenges.
+My research interests primarily lie in foundation models, vision-language models, agentic systems, generative models, learning under data distribution shifts, and advancing AI solutions for real-world challenges.
 
 Prior to my Ph.D., I earned master's degrees in Electrical and Computer Engineering from [Carnegie Mellon University](https://www.cmu.edu/), where I was advised by [Prof. Zachary Lipton](https://www.zacharylipton.com/), and from [Imperial College London](https://www.imperial.ac.uk/), where I was supervised by [Prof. Jesus Rodriguez Manzano](https://profiles.imperial.ac.uk/j.rodriguez-manzano). I completed my undergraduate studies through the 2+2 program at the [University of Nottingham](https://www.nottingham.ac.uk/), where I primarily worked with Dr. David Siu Yeung Cho.
 
